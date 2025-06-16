@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/api/duksungAI", "permanent": true }
+  ]
+}
